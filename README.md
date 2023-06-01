@@ -3,7 +3,7 @@
 A program that limits the memory usage of Discord by preventing unnecessary cache with the function  ```SetProcessWorkingSetSize()```
 
 # Revision
-This revision updates the program to WinForm and adds support for minimizing to the system tray. The loop rate was also updated from 6ms to 2ms due to high cache levels since changing to background threading.
+This revision updates the program to WinForm and adds support for minimizing to the system tray. The loop rate was also updated from 6ms to 3ms due to high cache levels since changing to background threading.
 
 # Credit
 All credit to the original creators faraj and miaf! You can find their original repository here:
